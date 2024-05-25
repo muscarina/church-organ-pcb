@@ -9738,6 +9738,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfg Part#" "1711738"
+			(at 29.21 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c60ec3f-f6a0-496f-96af-184a55f81d65")
 		)
