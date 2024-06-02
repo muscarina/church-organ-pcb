@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Part Number: TBP02R2-381-03BE
+3DX_CUI_DEVICES_Description: TBP02R2-381 Series - 3 Poles, Pluggable,Receptacle,Vertical, 3.81 Pitch, Terminal Block Connector, RoHS Compliant

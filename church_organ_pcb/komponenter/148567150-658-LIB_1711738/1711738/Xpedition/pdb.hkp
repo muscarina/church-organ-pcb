@@ -1,0 +1,42 @@
+.Filetype ASCII_PDB
+.Version "02.01"
+.Units MM
+.Notation SI
+
+.Job "13208710/506064/2.50/3/2/Connector"
+.Creator "SamacSys ECAD Model 1711738"
+.Number "1711738"
+	..Name "1711738"
+		...Default
+	..Label "1711738"
+		...Default
+	..Desc "PCB terminal block, nominal current: 24 A, rated voltage (III/2): 400 V, nominal cross section: 2.5 mm?, Number of potentials: 3, Number of rows: 1, Number of positions per row: 3, product range: MKDS 3, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of positions"
+	..RefPrefix "J"
+	..TopCell "1711738"
+	..BottomCell ""
+	..Prop "Type",	"Connector",	"Text"
+	..Prop "Manufacturer_Name",	"Phoenix Contact",	"Text"
+	..Prop "Manufacturer_Part_Number",	"1711738",	"Text"
+	..Prop "Mouser Part Number",	"651-1711738",	"Text"
+	..Prop "Mouser Price/Stock",	"https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1711738?qs=F79NelsxgYGJoCQSSUE92w%3D%3D",	"Text"
+	..Prop "Arrow Part Number",	"1711738",	"Text"
+	..Prop "Arrow Price/Stock",	"https://www.arrow.com/en/products/1711738/phoenix-contact?region=nac",	"Text"
+	..Prop "Description",	"PCB terminal block, nominal current: 24 A, rated voltage (III/2): 400 V, nominal cross section: 2.5 mm?, Number of potentials: 3, Number of rows: 1, Number of positions per row: 3, product range: MKDS 3, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of positions",	"Text"
+	..Prop "Datasheet Link",	"http://www.phoenixcontact.com/de/produkte/1711738/pdf",	"Text"
+	..Prop "Height",	"18.2",	"Real"
+	..SwapGroup	"gate1"
+		...SwapID	"P0"
+		...SwapID	"P1"
+		...SwapID	"P2"
+	..Symbol	"SamacSys:1711738"
+		...Symbol_SwapGroup	"gate1"
+			....PinName	"1"
+			....PinName	"2"
+			....PinName	"3"
+	..Slots
+		...Slot_SwapGroup	"gate1"
+			....SlotID	1
+			....SwapCode	0
+			....PinNumber	"1"
+			....PinNumber	"2"
+			....PinNumber	"3"

@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1714955
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=5.3
+Released=2017-07-13 16:02:17
+Downloaded=2024-05-21 19:22:40
+3D=Y
