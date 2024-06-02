@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -63,7 +63,7 @@
       39,
       40
     ],
-    "visible_layers": "007ffff_ffffffff",
+    "visible_layers": "007fffc_7fffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -77,6 +77,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "church_organ_pcb.zip.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -8,
+          "pos_y": -8,
+          "size_x": 1936,
+          "size_y": 1048
+        }
+      },
+      {
+        "name": "church_organ_pcb.zip.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -8,
+          "pos_y": -8,
+          "size_x": 1936,
+          "size_y": 1048
+        }
+      }
+    ]
   }
 }
