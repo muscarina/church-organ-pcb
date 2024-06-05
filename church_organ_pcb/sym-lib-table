@@ -11,5 +11,6 @@
   (lib (name "3568-15 fuse holder")(type "KiCad")(uri "${KIPRJMOD}/komponenter/fuse_holder/3568-15.kicad_sym")(options "")(descr ""))
   (lib (name "MCCQ-122")(type "KiCad")(uri "${KIPRJMOD}/komponenter/fuse_holder/ul_MCCQ-122/KiCADv6/MCCQ-122.kicad_sym")(options "")(descr ""))
   (lib (name "3544")(type "KiCad")(uri "${KIPRJMOD}/komponenter/fuse_holder/KiCADv6/2024-05-31_16-16-18.kicad_sym")(options "")(descr ""))
+  (lib (name "AMDLA4020S")(type "KiCad")(uri "${KIPRJMOD}/komponenter/AMDLA4020S-4R7MT/AMDLA4020S-4R7MT.kicad_sym")(options "")(descr ""))
   (lib (name "AMDLA4020S-4R7MT")(type "KiCad")(uri "${KIPRJMOD}/komponenter/AMDLA4020S-4R7MT/AMDLA4020S-4R7MT.kicad_sym")(options "")(descr ""))
 )
